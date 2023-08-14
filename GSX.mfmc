@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleName>GSX</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Button Name="GSX Panel" Pin="2" />
+  <Button Name="1" Pin="3" />
+  <Button Name="2" Pin="4" />
+  <Button Name="3" Pin="5" />
+  <Button Name="4" Pin="6" />
+  <Button Name="5" Pin="7" />
+  <Button Name="6" Pin="8" />
+  <Button Name="7" Pin="9" />
+  <Button Name="8" Pin="10" />
+  <Button Name="9" Pin="11" />
+  <Button Name="0" Pin="12" />
+</Config>
